@@ -1,32 +1,35 @@
 ### Hi there! I am Umang :wave:
 
 #### I am:
+
 * An Android Developer
 * A UI/UX Designer
 * Currently learning Frontend Web Development using Reactjs 
 * Exploring Cross Platform Development
+
+<br/>
 
 ***
 
 ### Connect with me:
 
 <a href="mailto:umangsinha12@gmail.com">
-         <img alt="Gmail" src="res/gmail.png"
+         <img style="padding-right:10px" alt="Gmail" src="res/gmail.png"
          width=26px">
 </a>
 
 <a href="https://www.linkedin.com/in/umang-sinha/">
-         <img alt="LinkedIn" src="res/linkedin.png"
+         <img style="padding-right:10px" alt="LinkedIn" src="res/linkedin.png"
          width=26px">
 </a>
 
 <a href="https://twitter.com/umangsinha_">
-         <img alt="LinkedIn" src="res/twitter.png"
+         <img style="padding-right:10px" alt="LinkedIn" src="res/twitter.png"
          width=26px">
 </a>
 
 <a href="https://www.instagram.com/umang__._/">
-         <img alt="Instagram" src="res/instagram.png"
+         <img style="padding-right:10px" alt="Instagram" src="res/instagram.png"
          width=26px">
 </a>
 
