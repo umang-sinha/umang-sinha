@@ -34,6 +34,5 @@
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=umang-sinha&show_icons=true&hide_border=tru&&theme=dark&hide=stars&count_private=true)](https://github.com/umang-sinha?tab=follow)
 
-### Most Used Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-sinha&langs_count=8&layout=compact)](https://github.com/umang-sinha/github-readme-stats)
