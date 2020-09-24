@@ -2,30 +2,53 @@
 
 #### I am:
 * An Android Developer
-* UI/UX Designer
-* Currently learning Frontend Web Development using Reactjs
+* A UI/UX Designer
+* Currently learning Frontend Web Development using Reactjs 
 * Exploring Cross Platform Development
 
 ***
 
 ### Connect with me:
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c44038?logo=Gmail&logoColor=white)](mailto:umangsinha12@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867B2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umang-sinha/ "Connect on LinkedIn")
-[![Linkedin Badge](https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white)](https://twitter.com/umangsinha_/ "Connect via Twitter")
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-fe4164?logo=Instagram&logoColor=white)](https://www.instagram.com/umang__._/ "Connect via Instagram")
-[![Follow Badge](https://img.shields.io/badge/-Github-333333?logo=GitHub&logoColor=white)](https://github.com/umang-sinha/?tab=follow "Follow on GitHub")
+<a href="mailto:umangsinha12@gmail.com">
+         <img alt="Gmail" src="res/gmail.png"
+         width=26px">
+</a>
 
-***
+<a href="https://www.linkedin.com/in/umang-sinha/">
+         <img alt="LinkedIn" src="res/linkedin.png"
+         width=26px">
+</a>
+
+<a href="https://twitter.com/umangsinha_">
+         <img alt="LinkedIn" src="res/twitter.png"
+         width=26px">
+</a>
+
+<a href="https://www.instagram.com/umang__._/">
+         <img alt="Instagram" src="res/instagram.png"
+         width=26px">
+</a>
+
+<a href="https://www.github.com/umang-sinha/">
+         <img alt="Instagram" src="res/github.png"
+         width=26px">
+</a>
+
+
+
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Android Studio" width="26px" src="res/android_studio.png" />
+<img align="left" alt="Java" width="26px" src="res/java.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="res/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="res/html-5.png" />
+<img align="left" alt="CSS3" width="26px" src="res/css3.png" />
+<img align="left" alt="JavaScript" width="26px" src="res/javascript.png" />
+<img align="left" alt="Git" width="26px" src="res/git.png" />
+<img align="left" alt="GitHub" width="26px" src="res/github.png" />
+
 <img />
 
 ***
