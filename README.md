@@ -13,22 +13,22 @@
 
 ### Connect with me:
 
-<a href="mailto:umangsinha12@gmail.com">
-         <img style="margin-right:10px" alt="Gmail" src="res/gmail.png"
+<a href="mailto:umangsinha12@gmail.com" style="margin-right:20px">
+         <img alt="Gmail" src="res/gmail.png"
          width=26px">
 </a>
 
-<a href="https://www.linkedin.com/in/umang-sinha/">
+<a href="https://www.linkedin.com/in/umang-sinha/" style="margin-right:20px">
          <img style="margin-right:10px" alt="LinkedIn" src="res/linkedin.png"
          width=26px">
 </a>
 
-<a href="https://twitter.com/umangsinha_">
+<a href="https://twitter.com/umangsinha_" style="margin-right:20px">
          <img style="margin-right:10px" alt="LinkedIn" src="res/twitter.png"
          width=26px">
 </a>
 
-<a href="https://www.instagram.com/umang__._/">
+<a href="https://www.instagram.com/umang__._/" style="margin-right:20px">
          <img style="margin-right:10px" alt="Instagram" src="res/instagram.png"
          width=26px">
 </a>
