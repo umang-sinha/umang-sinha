@@ -21,7 +21,7 @@
          width=26px">
 </a>
 
-<a href="https://twitter.com/umangsinha_" style="margin-right:20px">
+<a href="https://twitter.com/umang13_" style="margin-right:20px">
          <img style="margin-right:10px" alt="LinkedIn" src="res/twitter.png"
          width=26px">
 </a>
