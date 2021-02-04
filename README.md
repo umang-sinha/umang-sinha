@@ -6,7 +6,6 @@
 * A UI/UX Designer 
 * Currently learning Cross Platform Development using Flutter
 
-<br/>
 
 ***
 
