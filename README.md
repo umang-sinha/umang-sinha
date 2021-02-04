@@ -9,7 +9,7 @@
 
 ***
 
-### Connect with me:
+<!-- ### Connect with me:
 
 <a href="mailto:umangsinha12@gmail.com" style="margin-right:20px">
          <img alt="Gmail" src="res/gmail.png"
@@ -35,6 +35,8 @@
          <img alt="Instagram" src="res/github.png"
          width=26px">
 </a>
+
+-->
 
 
 
