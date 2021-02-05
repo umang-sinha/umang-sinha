@@ -60,7 +60,7 @@
 
 ### My Stats:
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=umang-sinha&show_icons=true&hide_border=tru&&theme=blue-green&hide=stars&count_private=true)](https://github.com/umang-sinha?tab=follow)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=umang-sinha&show_icons=true&hide_border=tru&include_all_commits=true&theme=blue-green&hide=stars&count_private=true)](https://github.com/umang-sinha?tab=follow)
 
 <!-- ![](https://komarev.com/ghpvc/?username=umang-sinha&color=03a99d) -->
 
@@ -69,3 +69,5 @@
 ![Profile views](https://gpvc.arturio.dev/umang-sinha)
 
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-03a99d.svg)](http://commonmark.org) -->
+
+
