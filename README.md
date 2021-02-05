@@ -68,4 +68,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/umang-sinha)
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-03a99d.svg)](http://commonmark.org)
+<!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-03a99d.svg)](http://commonmark.org) -->
