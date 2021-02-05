@@ -44,7 +44,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Android Studio" width="26px" src="res/android_studio.png" />
-<img align="left" alt="Java" width="26px" src="res/java.png" />
+<img href = "https://github.com/umang-sinha" align="left" alt="Java" width="26px" src="res/java.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="res/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="res/html-5.png" />
 <img align="left" alt="CSS3" width="26px" src="res/css3.png" />
