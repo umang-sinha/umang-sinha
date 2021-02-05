@@ -67,3 +67,5 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-sinha&theme=dark)](https://github.com/umang-sinha/github-readme-stats) -->
 
 ![Profile views](https://gpvc.arturio.dev/umang-sinha)
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-03a99d.svg)](http://commonmark.org)
