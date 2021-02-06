@@ -70,4 +70,7 @@
 
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-03a99d.svg)](http://commonmark.org) -->
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umang&theme=blue-green&layout=compact)](https://github.com/umang-sinha/github-readme-stats)
+
+
 
