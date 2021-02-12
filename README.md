@@ -64,13 +64,13 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=umang-sinha&color=03a99d) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-sinha&theme=dark)](https://github.com/umang-sinha/github-readme-stats) -->
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-sinha&theme=dark&layout=compact&langs_count=10)](https://github.com/umang-sinha/github-readme-stats) -->
 
 <!-- ![Profile views](https://gpvc.arturio.dev/umang-sinha) --> 
 
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-03a99d.svg)](http://commonmark.org) -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umang&theme=blue-green&hide_border=tr&layout=compact&custom_title=Last%207%20Days:)](https://github.com/umang-sinha)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umang&theme=blue-green&hide_border=tr&layout=compact&custom_title=My%20activity%20in%20the%20last%207%20Days:)](https://github.com/umang-sinha)
 
  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true)](https://github.com/umang-sinha) -->
 
