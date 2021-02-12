@@ -60,17 +60,17 @@
 
 ### My Stats:
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=umang-sinha&show_icons=true&hide_border=tru&theme=blue-green&hide=stars&count_private=true)](https://github.com/umang-sinha?tab=follow)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=umang-sinha&show_icons=true&hide_border=tru&theme=blue-green&hide=stars&count_private=true&include_all_commits=true)](https://github.com/umang-sinha?tab=follow)
 
 <!-- ![](https://komarev.com/ghpvc/?username=umang-sinha&color=03a99d) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-sinha&theme=dark)](https://github.com/umang-sinha/github-readme-stats) -->
 
-<!-- ![Profile views](https://gpvc.arturio.dev/umang-sinha) -->
+<!-- ![Profile views](https://gpvc.arturio.dev/umang-sinha) --> 
 
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-03a99d.svg)](http://commonmark.org) -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umang&theme=blue-green&layout=default&hide_border=tr)](https://github.com/umang-sinha)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umang&theme=blue-green&hide_border=tr&layout=compact&custom_title=Last%207%20Days:)](https://github.com/umang-sinha)
 
  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true)](https://github.com/umang-sinha) -->
 
