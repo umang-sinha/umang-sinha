@@ -72,7 +72,7 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umang&theme=blue-green&hide_border=tr&layout=compact&custom_title=Wakatime%20Week%20Stats:)](https://github.com/umang-sinha) -->
 
-<!-- > [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true&theme=blue-green)](https://github.com/umang-sinha) -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true&theme=blue-green)](https://github.com/umang-sinha)
 
 
 
