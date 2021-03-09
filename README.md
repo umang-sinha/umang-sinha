@@ -6,6 +6,9 @@
 * A UI/UX Designer 
 * Currently learning Cross Platform Development using Flutter
 
+</br>
+
+![](https://komarev.com/ghpvc/?username=umang-sinha&color=03a99d)
 
 ***
 
@@ -61,8 +64,7 @@
 ### My Stats:
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=umang-sinha&show_icons=true&hide_border=tru&theme=blue-green&hide=stars&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats:)](https://github.com/umang-sinha?tab=follow)
-
-<!-- ![](https://komarev.com/ghpvc/?username=umang-sinha&color=03a99d) -->
+ 
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-sinha&theme=dark&layout=compact&langs_count=10)](https://github.com/umang-sinha/github-readme-stats) -->
 
