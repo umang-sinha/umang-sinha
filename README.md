@@ -6,10 +6,6 @@
 * A UI/UX Designer 
 * Currently learning Cross Platform Development using Flutter
 
-</br>
-
-![](https://komarev.com/ghpvc/?username=umang-sinha&color=03a99d)
-
 ***
 
 <!-- ### Connect with me:
@@ -77,6 +73,8 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true&theme=blue-green)](https://github.com/umang-sinha)
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=umang-sinha&theme=darkhub&title=Commit,Issues,Repositories,PullRequest,Followers)](https://github.com/umang-sinha)
+
+![](https://komarev.com/ghpvc/?username=umang-sinha&color=03a99d)
 
 
 
