@@ -76,7 +76,7 @@
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true&theme=blue-green)](https://github.com/umang-sinha)
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=umang-sinha&theme=onedark)](https://github.com/umang-sinha)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=umang-sinha&theme=darkhub)](https://github.com/umang-sinha)
 
 
 
