@@ -40,18 +40,15 @@
 
 
 
-### Languages and Tools:
+### Languages:
 
-<img align="left" alt="Android Studio" width="26px" src="res/android_studio.png" />
-<img align="left" alt="Java" width="26px" src="res/java.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="res/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="res/html-5.png" />
-<img align="left" alt="CSS3" width="26px" src="res/css3.png" />
-<img align="left" alt="JavaScript" width="26px" src="res/javascript.png" />
-<img align="left" alt="Git" width="26px" src="res/git.png" />
-<img align="left" alt="GitHub" width="26px" src="res/github.png" />
-
-<img />
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 
 ***
 
