@@ -1,12 +1,11 @@
-### Hi there! I am Umang :wave:
-
-#### I am:
-
-* An Android Developer
-* A UI/UX Designer 
-* Currently learning Cross Platform Development using Flutter
+# Hi there! I am Umang :wave:
 
 ***
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
 
 <!-- ### Connect with me:
 
@@ -40,15 +39,15 @@
 
 
 
-### Languages:
+<!-- ### Languages:
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
 <!-- <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> -->
 
-### Tech-Stack:
+<!-- ### Tech-Stack:
 
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
@@ -60,7 +59,7 @@
 
 ### My Stats:
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=umang-sinha&show_icons=true&hide_border=tru&theme=blue-green&hide=stars&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats:)](https://github.com/umang-sinha?tab=follow)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=umang-sinha&show_icons=true&hide_border=tru&theme=blue-green&hide=stars&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats:)](https://github.com/umang-sinha?tab=follow) -->
  
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-sinha&theme=dark&layout=compact&langs_count=10)](https://github.com/umang-sinha/github-readme-stats) -->
@@ -71,14 +70,14 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umang&theme=blue-green&hide_border=tr&layout=compact&custom_title=Wakatime%20Week%20Stats:)](https://github.com/umang-sinha) -->
 
-<img src="https://github.com/umang-sinha/umang-sinha/blob/master/images/codeStats.svg" alt="My Coding Activity"/>
+<!-- <img src="https://github.com/umang-sinha/umang-sinha/blob/master/images/codeStats.svg" alt="My Coding Activity"/> -->
 
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true&theme=blue-green)](https://github.com/umang-sinha)
+ <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true&theme=blue-green)](https://github.com/umang-sinha)
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=umang-sinha&theme=darkhub&title=Commit,Issues,Repositories,PullRequest,Followers)](https://github.com/umang-sinha)
 
-![](https://komarev.com/ghpvc/?username=umang-sinha&color=03a99d)
+![](https://komarev.com/ghpvc/?username=umang-sinha&color=03a99d) -->
 
 
 
