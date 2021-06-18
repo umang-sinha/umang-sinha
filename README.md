@@ -5,18 +5,8 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
-> 🏆 671 Contributions in the Year 2021
- > 
-> 📦 100.6 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 27 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -57,33 +47,7 @@ VS Code                  15 hrs 38 mins      ███████████�
 IntelliJ                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.42% 
 Android Studio           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
 
-🐱‍💻 Projects: 
-time_tracker             10 hrs 36 mins      ███████████████░░░░░░░░░░   62.63% 
-agrix-gps-tracker        2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
-Perspective              1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
-helloJava                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.34% 
-flutter                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
-
-💻 Operating System: 
-Windows                  16 hrs 55 mins      █████████████████████████   100.0%
-
 ```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     13 repos            ████████░░░░░░░░░░░░░░░░░   34.21% 
-Dart                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
-Kotlin                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/umang-sinha/umang-sinha/master/charts/bar_graph.png) 
 
 
  Last Updated on 18/06/2021
