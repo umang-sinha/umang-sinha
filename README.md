@@ -69,7 +69,10 @@
 
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-03a99d.svg)](http://commonmark.org) -->
 
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umang&theme=blue-green&hide_border=tr&layout=compact&custom_title=Wakatime%20Week%20Stats:)](https://github.com/umang-sinha)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umang&theme=blue-green&hide_border=tr&layout=compact&custom_title=Wakatime%20Week%20Stats:)](https://github.com/umang-sinha) -->
+
+<img src="https://github.com/umang-sinha/umang-sinha/blob/master/images/codeStats.svg" alt="My Coding Activity"/>
+
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true&theme=blue-green)](https://github.com/umang-sinha)
 
