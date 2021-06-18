@@ -42,17 +42,16 @@
 
 ### Languages:
 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 <!-- <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> -->
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 ### Tech-Stack:
 
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
 ### UI/UX Design:
 
@@ -66,13 +65,13 @@
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=umang-sinha&show_icons=true&hide_border=tru&theme=blue-green&hide=stars&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats:)](https://github.com/umang-sinha?tab=follow)
  
 
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-sinha&theme=dark&layout=compact&langs_count=10)](https://github.com/umang-sinha/github-readme-stats) -->
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-sinha&theme=dark&layout=compact&langs_count=10)](https://github.com/umang-sinha/github-readme-stats) -->
 
 <!-- ![Profile views](https://gpvc.arturio.dev/umang-sinha) --> 
 
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-03a99d.svg)](http://commonmark.org) -->
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umang&theme=blue-green&hide_border=tr&layout=compact&custom_title=Wakatime%20Week%20Stats:)](https://github.com/umang-sinha) -->
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umang&theme=blue-green&hide_border=tr&layout=compact&custom_title=Wakatime%20Week%20Stats:)](https://github.com/umang-sinha)
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true&theme=blue-green)](https://github.com/umang-sinha)
 
