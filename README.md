@@ -12,7 +12,7 @@
 
  - ⚡ Currently pursuing a B.E. in Electrical and Electronics Engineering at BITS Pilani.
  
- - 📱 I build mobile apps using Flutter <img src="https://plugins.jetbrains.com/files/12400/96823/icon/pluginIcon.png" width="30">
+ - 📱 I build mobile apps using Flutter
     and Native Android Libraries <img src="https://source.android.com/setup/images/Android_symbol_green_RGB.png" width="30">
  - 🕵🏽‍♂️ I love designing mobile applications and websites using the latest UI design trends
    
