@@ -86,6 +86,8 @@ Linux                    1 hr 24 mins        ████████░░░�
  Last Updated on 03/08/2021
 <!--END_SECTION:waka-->
 
+[![Waka Readme](https://github.com/umang-sinha/umang-sinha/actions/workflows/wakatime-stats.yml/badge.svg)](https://github.com/umang-sinha/umang-sinha/actions/workflows/wakatime-stats.yml)
+
 <!-- ### Connect with me:
 
 <a href="mailto:umangsinha12@gmail.com" style="margin-right:20px">
