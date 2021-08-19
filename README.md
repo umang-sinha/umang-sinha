@@ -42,8 +42,8 @@
 ```text
 🌞 Morning    53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.84% 
 🌆 Daytime    92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
-🌃 Evening    284 commits    █████████░░░░░░░░░░░░░░░░   36.65% 
-🌙 Night      346 commits    ███████████░░░░░░░░░░░░░░   44.65%
+🌃 Evening    283 commits    █████████░░░░░░░░░░░░░░░░   36.52% 
+🌙 Night      347 commits    ███████████░░░░░░░░░░░░░░   44.77%
 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -83,7 +83,7 @@ Windows                  1 hr 6 mins         ██░░░░░░░░░�
 ```
 
 
- Last Updated on 18/08/2021
+ Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
 
 [![Waka Readme](https://github.com/umang-sinha/umang-sinha/actions/workflows/wakatime-stats.yml/badge.svg)](https://github.com/umang-sinha/umang-sinha/actions/workflows/wakatime-stats.yml)
