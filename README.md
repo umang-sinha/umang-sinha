@@ -30,7 +30,7 @@
 
 ***
 
-### 🤓 Here are some of my stats 👇🏽
+### 📊 Weekly Development Breakdown
 
 <br>
 
@@ -44,7 +44,7 @@ YAML         5 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![Waka Readme](https://github.com/umang-sinha/umang-sinha/actions/workflows/wakatime-stats.yml/badge.svg)](https://github.com/umang-sinha/umang-sinha/actions/workflows/wakatime-stats.yml)
+<!-- [![Waka Readme](https://github.com/umang-sinha/umang-sinha/actions/workflows/wakatime-stats.yml/badge.svg)](https://github.com/umang-sinha/umang-sinha/actions/workflows/wakatime-stats.yml) -->
 
 <!-- ### Connect with me:
 
@@ -95,15 +95,16 @@ YAML         5 mins          ▒░░░░░░░░░░░░░░░░
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
 ***
+-->
 
-### My Stats:
+### 🌟 Yearly Github Stats:
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=umang-sinha&show_icons=true&hide_border=tru&theme=blue-green&hide=stars&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats:)](https://github.com/umang-sinha?tab=follow) -->
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=umang-sinha&show_icons=true&hide_border=tru&theme=blue-green&hide=stars&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats:)](https://github.com/umang-sinha?tab=follow) 
  
 
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-sinha&theme=dark&layout=compact&langs_count=10)](https://github.com/umang-sinha/github-readme-stats) -->
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-sinha&theme=dark&layout=compact&langs_count=10)](https://github.com/umang-sinha/github-readme-stats) -->
 
-<!-- ![Profile views](https://gpvc.arturio.dev/umang-sinha) --> 
+<!-- ![Profile views](https://gpvc.arturio.dev/umang-sinha) -->
 
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-03a99d.svg)](http://commonmark.org) -->
 
@@ -112,11 +113,11 @@ YAML         5 mins          ▒░░░░░░░░░░░░░░░░
 <!-- <img src="https://github.com/umang-sinha/umang-sinha/blob/master/images/codeStats.svg" alt="My Coding Activity"/> -->
 
 
- <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true&theme=blue-green)](https://github.com/umang-sinha)
+ <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umang-sinha&theme=highcontrast&hide_border=true&theme=blue-green)](https://github.com/umang-sinha) -->
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=umang-sinha&theme=darkhub&title=Commit,Issues,Repositories,PullRequest,Followers)](https://github.com/umang-sinha)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=umang-sinha&theme=darkhub&title=Commit,Issues,Repositories,PullRequest,Followers)](https://github.com/umang-sinha)
 
-![](https://komarev.com/ghpvc/?username=umang-sinha&color=03a99d) -->
+![](https://komarev.com/ghpvc/?username=umang-sinha&color=03a99d)  -->
 
 
 
