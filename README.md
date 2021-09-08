@@ -30,7 +30,7 @@
 
 ***
 
-### 📊 Weekly Development Breakdown
+### 📊 Weekly Development Breakdown:
 
 <br>
 
