@@ -36,9 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart         3 hrs 32 mins   ██████████████████████▓░░   91.12 % 
-YAML         17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
