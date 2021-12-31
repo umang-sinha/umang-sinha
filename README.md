@@ -36,7 +36,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSX          5 mins          ████████████████▒░░░░░░░░   65.49 % 
+HTML         1 min           █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
 ```
 <!--END_SECTION:waka-->
 
