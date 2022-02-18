@@ -36,12 +36,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 25 hrs 39 mins
+Total: 26 hrs 46 mins
 
-Dart       20 hrs 10 mins  ███████████████████▓░░░░░   78.64 % 
-Java       3 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Solidity   1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Dart       20 hrs 5 mins   ██████████████████▓░░░░░░   75.05 % 
+Java       5 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
+Solidity   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 YAML       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Groovy     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
 
