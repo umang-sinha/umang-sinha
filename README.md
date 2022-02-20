@@ -36,8 +36,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 25 hrs 10 mins
-
 Dart       19 hrs 46 mins  ███████████████████▓░░░░░   78.55 % 
 Java       4 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.63 % 
 Solidity   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
