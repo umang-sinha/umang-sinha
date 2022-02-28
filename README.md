@@ -35,13 +35,15 @@
 <br>
 
 <!--START_SECTION:waka-->
+
 ```text
-Dart       8 hrs 10 mins   █████████████░░░░░░░░░░░░   52.30 % 
-Java       7 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   46.27 % 
-YAML       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Groovy     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Dart         6 hrs 13 mins   █████████████████▓░░░░░░░   70.42 %
+Java         2 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 %
+YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!-- [![Waka Readme](https://github.com/umang-sinha/umang-sinha/actions/workflows/wakatime-stats.yml/badge.svg)](https://github.com/umang-sinha/umang-sinha/actions/workflows/wakatime-stats.yml) -->
