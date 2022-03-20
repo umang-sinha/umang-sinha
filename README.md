@@ -37,12 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             1 hr 29 mins    ███████████████████▓░░░░░   78.91 %
-Kotlin           21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
-XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
