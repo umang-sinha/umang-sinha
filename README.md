@@ -37,7 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart   1 hr 11 mins    █████████████████████████   100.00 %
+Dart         2 hrs 41 mins   ████████████████████▓░░░░   82.75 %
+Java         33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
