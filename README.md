@@ -37,9 +37,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Groovy       6 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   40.86 %
-JavaScript   3 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
-Other        3 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
+JavaScript   7 hrs 41 mins   █████████████████▒░░░░░░░   69.73 %
+JSON         2 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+Groovy       25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
