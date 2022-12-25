@@ -3,19 +3,19 @@
 </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Umang Sinha | 📲 Mobile App Developer | 👦 UI/UX Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Umang Sinha | 🕸 Backend Developer | 📲 Mobile App Developer</h3>
 </div>
 
 <div align="center">
-  <h2> I'm a 21 years old self-taught Developer from India.</h2>
+  <h2> I'm a 22 years old self-taught Developer from India.</h2>
 </div>
 
  - ⚡ Currently pursuing a B.E. in Electrical and Electronics Engineering at BITS Pilani.
  
- - 📱 I build mobile apps using Flutter
-    and Native Android Libraries <img src="https://source.android.com/setup/images/Android_symbol_green_RGB.png" width="30">
- - 🕵🏽‍♂️ I love designing mobile applications and websites using the latest UI design trends
-   
+ - 📱 I am a backend developer and a Flutter developer
+ 
+ - 🕵🏽‍♂️ I love building backend services that scale!
+ 
  - 🎯 On the path of going full stack
 
  ### 💻 Languages and Tools
