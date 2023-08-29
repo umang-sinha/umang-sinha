@@ -37,9 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   9 hrs 55 mins   ████████████████████░░░░░   79.90 %
-JSON         2 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   19.47 %
-YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+JavaScript   10 hrs 12 mins  ██████████████████▒░░░░░░   72.94 %
+JSON         2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+YAML         1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
 ```
 
 <!--END_SECTION:waka-->
