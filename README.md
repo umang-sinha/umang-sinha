@@ -37,11 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       13 hrs 20 mins        ███████████░░░░░░░░░░░░░░   43.98 %
-TypeScript       5 hrs 3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-Groovy           1 hr 58 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Kotlin           1 hr 38 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Bash             1 hr 29 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+JavaScript       12 hrs 36 mins        ███████████░░░░░░░░░░░░░░   43.63 %
+TypeScript       4 hrs 50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+Bash             2 hrs 12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Other            1 hr 34 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Groovy           1 hr 29 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 ```
 
 <!--END_SECTION:waka-->
